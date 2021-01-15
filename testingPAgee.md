@@ -1,5 +1,5 @@
 # Kathy Kanemoto :horse:
 
-![alt text][me]
+![a pic of me][me]
 
 [me]: me.png "a pic of me"
